@@ -1,0 +1,6 @@
+@Exception_Filter_and_Try_Catch_HostAddress = http://localhost:5168
+
+GET {{Exception_Filter_and_Try_Catch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
